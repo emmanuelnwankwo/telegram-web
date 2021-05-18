@@ -1,6 +1,6 @@
 {
   "name": "Telegram",
-  "description": "Telegram Web App.\nMore info & source code here: https://github.com/emmanuelnwankwo/telegram-web",
+  "description": "Telegram Web App.\nMore info & source code here: https://github.com/evgeny-nadymov/telegram-react",
   "short_name": "Telegram",
   "display": "standalone",
   "theme_color": "#000000",
