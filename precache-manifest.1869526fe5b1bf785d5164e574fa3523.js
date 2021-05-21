@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fd4f07188453a6f45310ef0ca09af9d",
+    "revision": "12186a3c1ce9c0697f4ef4fc63898ac9",
     "url": "/telegram-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/telegram-web/static/css/0.52c23fd6.chunk.css"
   },
   {
-    "revision": "1d69ef3a8415c12a82c2",
+    "revision": "e307a789ca5ecdf9948d",
     "url": "/telegram-web/static/css/4.a071d96f.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/telegram-web/static/js/3.af28cf4e.chunk.js"
   },
   {
-    "revision": "1d69ef3a8415c12a82c2",
-    "url": "/telegram-web/static/js/4.19bb6184.chunk.js"
+    "revision": "e307a789ca5ecdf9948d",
+    "url": "/telegram-web/static/js/4.dfaa70e2.chunk.js"
   },
   {
     "revision": "d6c4b87ac3aa615cb56b",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/telegram-web/static/js/main.b378452f.chunk.js"
   },
   {
-    "revision": "cce0513edc14eb543c4b",
-    "url": "/telegram-web/static/js/runtime~main.7b2264ac.js"
+    "revision": "32fb8622e864564fb37a",
+    "url": "/telegram-web/static/js/runtime~main.3b12f07a.js"
   },
   {
     "revision": "85479cc199de7ace1a44d901720601b8",
